@@ -1,1 +1,2 @@
 This is tweo.txt file
+I can add some new command.
