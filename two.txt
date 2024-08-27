@@ -1,2 +1,4 @@
 This is tweo.txt file
 I can add some new command.
+Hello i am efty.
+I am working on a web development.
