@@ -1,2 +1,2 @@
-This is one.txt file.I can add some new command.
+This is one.txt file.I can add some new command text and tag also.I think there have no any bug or error.
 
