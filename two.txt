@@ -1,2 +1,2 @@
 This is tweo.txt file
-I can add some new command and i can also add some new tag and i think there have no any bug or error.
+I can add some new command and I can also add some new tag and I also think there have no any bug or error.Thanks
